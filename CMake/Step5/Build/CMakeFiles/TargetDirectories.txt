@@ -1,0 +1,3 @@
+/cygdrive/c/Users/ngaic2/CSCI-2961/CMake/Step5/Build/CMakeFiles/Tutorial.dir
+/cygdrive/c/Users/ngaic2/CSCI-2961/CMake/Step5/Build/MathFunctions/CMakeFiles/MathFunctions.dir
+/cygdrive/c/Users/ngaic2/CSCI-2961/CMake/Step5/Build/MathFunctions/CMakeFiles/MakeTable.dir

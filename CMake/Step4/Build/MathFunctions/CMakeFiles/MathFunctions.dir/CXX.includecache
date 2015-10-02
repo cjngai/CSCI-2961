@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ngaic2/CSCI-2961/CMake/Step4/MathFunctions/MathFunctions.h
+
+/cygdrive/c/Users/ngaic2/CSCI-2961/CMake/Step4/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/cygdrive/c/Users/ngaic2/CSCI-2961/CMake/Step4/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/cygdrive/c/Users/ngaic2/CSCI-2961/CMake/Step4/MathFunctions/TutorialConfig.h
+math.h
+-
+
+TutorialConfig.h
+
